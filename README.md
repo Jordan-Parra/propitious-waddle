@@ -6,4 +6,6 @@ Sampler. Pampler. Schmampler.
 
 Simple sample.
 
-Don't we already have an ample amount of samples
+Don't we already have an ample amount of samples?
+
+There's never an ample amount samples!
